@@ -2,7 +2,7 @@
 
 A top-down 2D naval shooter built with **React**, **TypeScript** (strict), and **PixiJS**. Sail between islands, sink enemy ships and climb the ranking before time runs out.
 
-**Live demo:** _add the Vercel URL here after deploying_
+**Live demo:** https://pirate-battle.vercel.app
 
 | Responsibility | Technology |
 | --- | --- |
