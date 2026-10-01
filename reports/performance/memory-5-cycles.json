@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-01T20:33:31.379Z",
+  "env": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.12 Safari/537.36",
+    "gpu": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 SUPER (0x00002187) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "cpuThreads": 6,
+    "deviceMemoryGb": 8,
+    "viewport": "1280x720",
+    "devicePixelRatio": 1
+  },
+  "samples": [
+    {
+      "cycle": 0,
+      "heapMb": 3.25,
+      "canvases": 0
+    },
+    {
+      "cycle": 1,
+      "heapMb": 7.19,
+      "canvases": 0
+    },
+    {
+      "cycle": 2,
+      "heapMb": 7.4,
+      "canvases": 0
+    },
+    {
+      "cycle": 3,
+      "heapMb": 7.56,
+      "canvases": 0
+    },
+    {
+      "cycle": 4,
+      "heapMb": 7.65,
+      "canvases": 0
+    },
+    {
+      "cycle": 5,
+      "heapMb": 7.74,
+      "canvases": 0
+    }
+  ],
+  "growthMb": 0.55
+}
